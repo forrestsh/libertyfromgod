@@ -26,14 +26,14 @@ pin: true
 
 ### Windows系统-v2rayN
 
-- 请从[v2rayN的Github仓库发布页面]([https://github.com/2dust/v2rayN/releases)获取最新版软件。
+- 请从[v2rayN的Github仓库发布页面](https://github.com/2dust/v2rayN/releases)获取最新版软件。
 - 用enigma软件添加我为好友。我会将配置链接发送给你。
 - 在v2rayN软件中添加配置信息。
 - 开始畅游网络。
 
 
 
-下载[Enigma信使]([https://enigma.im/zh_hans/)，扫描二维码添加好友。
+下载[Enigma信使](https://enigma.im/zh_hans/)，扫描二维码添加好友。
 
 <img src="/assets/img/enigma-forrest.jpg" alt="image-20220310170721420" style="zoom:25%;" />
 
