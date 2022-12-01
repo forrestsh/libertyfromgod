@@ -1,8 +1,5 @@
 ---
 title: 被控涉嫌"诈骗”和“煽动颠覆国家政权”罪的贵阳仁爱归正教会张春雷长老2022年11月29日庭审情况通报
-author:
-  name: 维权网
-  link: https://wqw2010.blogspot.com/
 date: 2022-11-30 15:55:00 +0800
 categories: [Faith, Liberty]
 tags: [Church]
