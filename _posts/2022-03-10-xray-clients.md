@@ -1,6 +1,6 @@
 ---
 title: Xray客户端安装指南
-author:
+author: 
   name: Forrest Shen
   link: https://github.com/forrestsh
 date: 2022-03-10 15:55:00 +0800
